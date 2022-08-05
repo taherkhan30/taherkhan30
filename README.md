@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Python for Networking**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](link here)**
-
 - 📫 You can get in touch with me via Linkedin **[Linkedin](https://www.linkedin.com/in/taherkhanlondon/)**
 
 - ⚡ Fun fact **????.**
