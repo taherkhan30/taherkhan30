@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](link here)**
 
-- 📫 You can get in touch with me via Linkedin **[Linkedin](link here)**
+- 📫 You can get in touch with me via Linkedin **[Linkedin](https://www.linkedin.com/in/taherkhanlondon/)**
 
 - ⚡ Fun fact **????.**
 
@@ -20,22 +20,12 @@
 
 <p align="left"> 
     <a href="https://www.credly.com/badges/bca09b6d-2179-47b0-9717-0f141521162f/public_url" target="_blank"> <img src="https://images.credly.com/size/220x220/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png" alt="az-700" width="100" height="100"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.credly.com/badges/37e4b044-72ea-4028-83e7-376cdef89a82/public_url" target="_blank"> <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="az-700" width="100" height="100"/> </a>
+    <a href="https://www.credly.com/badges/47e23469-c46a-4e52-98bb-25d1e6a52fbd/public_url" target="_blank"> <img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="az-700" width="100" height="100"/> </a> 
+    <a href="https://www.credly.com/badges/ddf53a95-7e03-434f-8961-1fab62c32bbb/public_url" target="_blank"> <img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="az-700" width="100" height="100" /> </a> 
+    <a href="https://www.credly.com/badges/350249fa-b3e4-4b9e-8efc-6bc01fd53fae/public_url" target="_blank"> <img src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="az-700" width="100" height="100"/> </a> 
+    <a href="https://www.credly.com/badges/05ecbbf2-25db-4c5d-a323-897e6816129a/public_url" target="_blank"> <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="az-700" width="100" height="100"/> </a> 
+    <a href="https://www.credly.com/badges/7aeab836-0ca3-41c9-8b83-5c36302e5141/public_url" target="_blank"> <img src="https://images.credly.com/size/680x680/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" alt="az-700" width="100" height="100"/> </a> 
 </p>
 
 ## 🚀 Languages and Tools:
