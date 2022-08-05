@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python for Networking**
 
-- 📫 You can get in touch with me via Linkedin **[Linkedin](https://www.linkedin.com/in/taherkhanlondon/)**
+- 📫 You can get in touch with me via **[Linkedin](https://www.linkedin.com/in/taherkhanlondon/)**
 
 - ⚡ Fun fact **????.**
 
