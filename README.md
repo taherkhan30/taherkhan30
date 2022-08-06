@@ -1,18 +1,17 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Taher</h1>
-<h3 align="center">I'm a passionate Azure Platform Engineer from London.</h3>
+<h3 align="center">I'm an Azure Platform Engineer from London.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working as a Platform Engineer at Kainos
 
-- 🌱 I’m currently learning **Python for Networking**
+- 🌱 I’m currently learning **Python**
 
 - 📫 You can get in touch with me via **[Linkedin](https://www.linkedin.com/in/taherkhanlondon/)**
 
-- ⚡ Fun fact **????.**
 
 ## 🚀 Certifications:
 
