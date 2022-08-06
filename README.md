@@ -30,10 +30,14 @@
 
 ## 📽️ Personal Projects:
 
-<p align="left"> 
-    <a href="https://github.com/taherkhan30/PowerShell-Scripts" target="_blank"> <img src="" alt="az-700" width="100" height="100"/> </a>
-    <a href="" target="_blank"> <img src="" alt="az-700" width="100" height="100"/> </a>
-    <a href="" target="_blank"> <img src="" alt="az-700" width="100" height="100"/> </a> 
+<h3 align="center"> Cheatsheets </h3>
+     
+| URL      |
+| ----------- |
+| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)                            |
+| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)                        |
+| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)                            |
+| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)                                |
 
 ## 📊 My Github Stats
 
