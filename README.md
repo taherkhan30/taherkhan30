@@ -34,10 +34,10 @@
      
 | URL      |
 | ----------- |
-| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)                            |
-| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)                        |
-| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)                            |
-| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)                                |
+| [Powershell-Cheatsheet](https://github.com/taherkhan30/PowerShell-Scripts)                 |
+| [Terraform-Cheatsheet](https://github.com/taherkhan30/terraform-azure)                     |
+| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)                         |
+| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)                             |
 
 ## 📊 My Github Stats
 
