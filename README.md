@@ -31,7 +31,7 @@
 ## 📽️ Personal Projects:
 
 <p align="left"> 
-    <a href="" target="_blank"> <img src="" alt="az-700" width="100" height="100"/> </a>
+    <a href="https://github.com/taherkhan30/PowerShell-Scripts" target="_blank"> <img src="" alt="az-700" width="100" height="100"/> </a>
     <a href="" target="_blank"> <img src="" alt="az-700" width="100" height="100"/> </a>
     <a href="" target="_blank"> <img src="" alt="az-700" width="100" height="100"/> </a> 
 
@@ -49,7 +49,7 @@
 
 <p align="center">
     <a href="https://github.com/taherkhan30/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taherkhan30&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taher khan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taherkhan30&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
