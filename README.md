@@ -3,7 +3,7 @@
 
 ## ℹ️ About Me
 
-- 🔭 I’m currently working as a Platform Engineer at Kainos 💻
+- 🔭 I’m currently working as a Platform Engineer at Kainos 💻 🚉
 
 - 🌱 I’m currently learning **Python**
 
