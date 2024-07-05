@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working as a Platform Engineer at Kainos 💻 🚉
 
-- 🌱 I’m currently learning **Bicep**
+- 🌱 I’m currently learning **Bicep** 💪
 
 - 📫 You can get in touch with me via **[Linkedin](https://www.linkedin.com/in/taherkhanlondon/)**
