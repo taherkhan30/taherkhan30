@@ -9,4 +9,4 @@
   
 - 🔖 Read my blog at https://taherkhan.hashnode.dev/
 
-- 📫 You can get in touch with me via **[Linkedin](https://www.linkedin.com/in/taherkhanlondon/)**
+- 📫 You can get in touch with me via **[Linkedin](https://www.linkedin.com/in/taher-azure-cloud-engineer/)**
