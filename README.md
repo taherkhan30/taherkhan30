@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Platform Engineer at Kainos 💻 🚉
 
-- 🌱 I’m currently learning **Bicep** 💪
+- 🌱 I’m currently learning **c# and some asp.net to build internal development tools** 💪
   
 - 🔖 Read my blog at https://taherkhan.hashnode.dev/
 
